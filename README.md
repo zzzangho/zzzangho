@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+저는 영남대학교 컴퓨터공학과에 재학 중인 zzzangho 입니다.
+
+현재 프로그래밍과 소프트웨어 개발에 관심이 많고,
+수업을 통해 GitHub와 다양한 개발 도구를 배우고 있습니다.
+
+앞으로 웹 개발과 앱 개발을 더 공부해보고 싶고,
+꾸준히 프로젝트를 진행하면서 실력을 키우는 것이 목표입니다.
+
+감사합니다.
 <!--
 **zzzangho/zzzangho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
